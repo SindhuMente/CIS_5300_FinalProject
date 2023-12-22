@@ -1,1 +1,3 @@
-This folder contains the .zip file of our preprocessed data. The full dataset can be viewed in this Drive folder: https://drive.google.com/drive/u/0/folders/1aU-axT1w_vmqXB-MjmEbT-KcKWlzp-2K
+This folder contains the .zip file of our preprocessed data. It is segmented by length of summary first, then classified whether it is a source or target summary, then by whether it is apart of the training, testing or development set.
+
+The full dataset can be viewed in this Drive folder: https://drive.google.com/drive/u/0/folders/1aU-axT1w_vmqXB-MjmEbT-KcKWlzp-2K
